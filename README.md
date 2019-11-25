@@ -7,6 +7,7 @@ Add a fixed Lane cover to your osu!mania
 2. Make sure your Osu! game client isn't in fullscreen mode
 3. Run ```python app.py```
    - If you are downloading the latest released exe, just run ```app.exe```
++ To close the app, click on any part of the cover
 # Config.ini
 | Sections        | Key           | Description  |
 | ------------- |:-------------:| -----:|
